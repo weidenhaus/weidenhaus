@@ -4,4 +4,3 @@
 - 💬 Ask me about Web Development, Full Stack Development, Developer Advocacy, TypeScript and Python
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/weidenhaus/)
 - 😄 Adjectives: curious | professional | reliable
-- ⚡ Fun fact: My life goal is to find a great job in Australia 🇦🇺
