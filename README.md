@@ -11,4 +11,10 @@
 - 🔭 I’m currently working at [Linktree](http://linktr.ee) in Sydney, Australia 🇦🇺
 - 💬 Ask me about: Full Stack TypeScript, APIs, Content Moderation Tooling
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/weidenhaus)
-- ⚡ I love IoT, 3D printing and electrical engineering
+- ⚡ I'm very interested in IoT, 3D printing and electrical engineering
+- 🌄 I'm also very interested in AI generated art:
+
+![Midjourney Art(https://github.com/weidenhaus/weidenhaus/blob/91ac5e278b86cd32c9198190ad19195ce7cc204a/weidenhaus_futuristic_city_bright_dystopian_neo_brutalism_cinem_a309a6f4-f2d0-4e5d-85fb-09e6c1cffcae.png
+
+)
+
