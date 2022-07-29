@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hi there! I'm Steffen</h3>
 <p align="center">
-  <a href="https://http://weidenhaus.com">Website</a> •
+  <a href="https://weidenhaus.com">Website</a> •
   <a href="https://www.linkedin.com/in/weidenhaus/">LinkedIn</a>
 </p>
 
