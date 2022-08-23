@@ -6,10 +6,12 @@
 
 ---
 
-✨ I am a software engineer with technical acumen and in-depth knowledge of the end-to-end software development lifecycle and paradigm. I drive technical strategy, promoting the adoption of web performance best practices to build, optimise and maintain scalable web development ecosystems through complex enhancement as well as integration projects.
+✨ I’m a full stack software engineer with over 10 years experience in software development and product management. I know what it means to take ownership, deliver measurable results and be a great team player. I am versatile, curious and enthusiastic to take on new problems and to grow not only as a developer, but as a person.
+
+I worked at SAP’s HQ for 7 years as a principal developer and tech lead for their internal adoption and usage reporting, driving end-to-end processes and being responsible for all technical aspects of the reporting landscape and underlying system architecture.
 
 - 🔭 I’m currently working at [Linktree](http://linktr.ee) in Sydney, Australia 🇦🇺
-- 💬 Ask me about: Full Stack TypeScript, APIs, Content Moderation Tooling
+- 💬 Ask me about: Python, TypeScript, APIs, Security Engineering
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/weidenhaus)
 - ⚡ I'm very interested in IoT, 3D printing and electrical engineering
 - 🌄 I'm also very interested in AI generated art:
