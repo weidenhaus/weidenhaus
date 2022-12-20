@@ -14,7 +14,7 @@ As a freelance software engineer and consultant in Germany and Switzerland, I ha
 
 I lived and worked on three continents and I’m deeply grateful to have met so many smart and inspiring people along the way, many of whom have become lifelong friends and mentors. I truly love working in software development. It feels good to work on applications that have the potential to bring joy to millions of people and to connect friends and families.
 
-- 🔭 I’m currently working at [Linktree](http://linktr.ee) in Sydney, Australia 🇦🇺
+- 🔭 I’m currently working as a freelance remote software engineer in Australia 🇦🇺
 - 💬 Ask me about: Python, TypeScript, APIs, Security Engineering
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/weidenhaus)
 - ⚡ I'm very interested in IoT, 3D printing and electrical engineering
