@@ -31,8 +31,3 @@ With over 12 years of experience as a software engineer, I offer a dual expertis
 - Embedded development
 - Electronics (Arduino projects)
 - AI and Machine Learning
-
----
-
-⭐️ From [Your Name](https://github.com/yourusername)
-
