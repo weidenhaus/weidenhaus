@@ -1,8 +1,4 @@
-```
-MOVED TO GITLAB: [Weidenhaus-GitLab](https://gitlab.com/weidenhaus)
-
-```
-
+# MOVED TO GITLAB: [Weidenhaus-GitLab](https://gitlab.com/weidenhaus)
 ---
 
 ## Steffen Weidenhaus
