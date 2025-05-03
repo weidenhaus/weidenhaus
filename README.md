@@ -4,7 +4,7 @@ With over 12 years of experience as a software engineer, I offer a dual expertis
 
 ## 🚀 About Me
 
-- 🔭 I’m currently freelancing for the [Australian Research Data Commons (ARDC)](https://ardc.edu.au)
+- 🔭 I’m currently working in a permanent software engineering role at [Rhize](https://rhize.com)
 - 💬 Ask me about Software Engineering
 - 📫 How to reach me: [https://www.linkedin.com/in/weidenhaus/]
 
