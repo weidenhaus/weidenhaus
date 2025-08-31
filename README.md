@@ -1,12 +1,21 @@
-# Hi there 👋, I'm Steffen
+## 👨🏻‍💻 G'day, I'm Steffen
 
-With over 12 years of experience as a software engineer, I offer a dual expertise in permanent roles and freelance projects, specialising in full-stack web applications. My track record includes delivering high-impact software solutions that drive organisational growth, evidenced by my recognition as a global talent by the Australian government.
+Enterprise full-stack engineer with 14 years experience, including 6+ years at SAP leading teams and delivering platforms processing millions of daily records.
 
-## 🚀 About Me
+Currently focused on defence and government contracting opportunities where my enterprise architecture experience and modern web development skills deliver immediate value.
 
-- 🔭 I’m currently working in a permanent software engineering role at [Rhize](https://rhize.com)
-- 💬 Ask me about Software Engineering
-- 📫 How to reach me: [https://www.linkedin.com/in/weidenhaus/]
+## 🚀 What I bring:
+
+- Led 2 development teams at SAP, building intelligence dashboards and reporting platforms for Fortune 500
+- Recent 2-year government contract with ARDC delivering national research infrastructure
+- Expert in React/TypeScript, full-stack development, and complex API integrations
+- NV1 clearance in progress, Canberra-based, available from September 2025
+
+## 📟 Technical expertise:
+Frontend: React, TypeScript, Redux, GraphQL
+Backend: Node.js, Python, Go, Java
+Cloud: AWS, Docker, Kubernetes
+Scale: Systems serving 5,000+ enterprise users to 50M+ public users
 
 ## 🛠️ Skills and Technologies
 
