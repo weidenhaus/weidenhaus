@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 G'day, I'm Steffen
 
-Enterprise full-stack engineer with 14 years experience, including 6+ years at SAP leading teams and delivering platforms processing millions of daily records.
+🇦🇺 Australian Citizen. Enterprise full-stack engineer with 14 years experience, including 6+ years at SAP leading teams and delivering platforms processing millions of daily records.
 
 Currently focused on defence and government contracting opportunities where my enterprise architecture experience and modern web development skills deliver immediate value.
 
@@ -12,10 +12,10 @@ Currently focused on defence and government contracting opportunities where my e
 - NV1 clearance in progress, Canberra-based, available from September 2025
 
 ## 📟 Technical expertise:
-Frontend: React, TypeScript, Redux, GraphQL
-Backend: Node.js, Python, Go, Java
-Cloud: AWS, Docker, Kubernetes
-Scale: Systems serving 5,000+ enterprise users to 50M+ public users
+- **Frontend:** React, TypeScript, Redux, GraphQL
+- **Backend:** Node.js, Python, Go, Java
+- **Cloud:** AWS, Docker, Kubernetes
+- **Scale:** Systems serving 5,000+ enterprise users to 50M+ public users
 
 ## 🛠️ Skills and Technologies
 
