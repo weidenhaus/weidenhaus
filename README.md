@@ -1,1 +1,1 @@
-Principal Software Engineer. Canberra, Australia 🇦🇺
+Forward Deployed Engineer @ Palantir. Canberra, Australia 🇦🇺
